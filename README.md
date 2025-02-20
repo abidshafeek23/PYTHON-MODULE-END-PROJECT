@@ -39,3 +39,6 @@ Correlation Analysis
 - module_project_excel_file: Dataset used for analysis.
 - ABC_Company_Analysis.ipynb: Jupyter Notebook containing the code and visualizations.
 - README.md: Overview of the project.
+- PDF: Screenshot of the results
+- GRAPHS: graphs created throughout the project.
+- KEY INSIGHTS: Insights identified in this project
